@@ -1,0 +1,24 @@
+{
+  "customerId" : 1,
+  "name" : "Akhil",
+  "dateOfBirth" : 804454308912,
+  "annualSalary" : 78324.0,
+  "address" : [ {
+    "streetName" : "2527 Louise Street",
+    "city" : "Denton",
+    "state" : "TX",
+    "pinCode" : "76201"
+  }, {
+    "streetName" : "2126 Stella Street",
+    "city" : "Denton",
+    "state" : "TX",
+    "pinCode" : "76201"
+  } ],
+  "payment" : [ {
+    "cardNumber" : 48723635,
+    "cardName" : "Master",
+    "dateFrom" : 1467228708918,
+    "dateTo" : 1340998308918,
+    "card" : "CREDIT CARD"
+  } ]
+}
